@@ -1,4 +1,4 @@
-#**Contents**
+# **Contents**
 
 - **app.py:** Calls the server in 
 - **index.py:** Body of the file that defines the layout
