@@ -13,3 +13,4 @@ pandas==1.0.5
 pandocfilters==1.4.2
 plotly==4.14.3
 py==1.9.0
+sklearn==0.23.1
