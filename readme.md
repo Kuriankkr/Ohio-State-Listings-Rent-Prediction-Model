@@ -13,7 +13,11 @@ The repository has been divided into 3 major sections:
 
 - [Application](https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/tree/master/Application): This is the front end of the project that has been pushed to Heroku
 - [Model](https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/tree/master/Model): This consists of the basic regression model that I have developed and an EDA
-- [Scraping_Notebooks](https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/tree/master/Scraping_Notebooks): This consists for the notebooks that I used for scraping and the docker script
+- [Scraping_Notebooks](https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/tree/master/Scraping_Notebooks): This consists for the notebooks that I used for scraping and the docker script.
+
+## Preview
+
+<img width="1000" height="300" src= "https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/blob/master/Extras/ohio_state.gif">
 
 ## Dataset
 Since there was no preexisting clean datasets for appartments listings around Ohio State University, I had to scrape online from websites inorder to create my dataset.
@@ -62,7 +66,19 @@ My final R-squared value for my training set was **0.74** and testing was **0.72
 - **Backend**
   - Scaling up the database to accomodate more data and thereby make the model more robust
 
-
-
-
-# Future
+## Technology Used
+<p>
+  <img width="75" align='left' src="https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/blob/master/Extras/python_logo.png">
+</p>
+<p>
+  <img width="75" align='left' src="https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/blob/master/Extras/heroku_logo.png">
+</p>
+<p>
+  <img width="75" align='left' src="https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/blob/master/Extras/postgresql_logo.png">
+</p>
+<p>
+  <img width="75" align='left' src="https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/blob/master/Extras/docker_logo.png">
+</p>
+<p>
+  <img width="75" align='left' src="https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/blob/master/Extras/airflow_logo.png">
+</p>
