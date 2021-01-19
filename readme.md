@@ -82,3 +82,6 @@ My final R-squared value for my training set was **0.74** and testing was **0.72
 <p>
   <img width="75" align='left' src="https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/blob/master/Extras/airflow_logo.png">
 </p>
+<p>
+  <img width="75" align='left' src="https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/blob/master/Extras/dash_logo.png">
+</p>
