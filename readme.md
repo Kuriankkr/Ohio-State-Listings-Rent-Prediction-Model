@@ -1,4 +1,4 @@
-# **Ohio State Appartments Rent Prediction Model**
+# **Ohio State Apartments Rent Prediction Model**
 
 ## Overview
 In the summer of 2020, I was planning to move from my current appartment and I started hunting online for appartment listings around Ohio State University. 
