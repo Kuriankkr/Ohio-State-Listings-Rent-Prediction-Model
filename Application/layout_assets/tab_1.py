@@ -10,10 +10,10 @@ tab_1_layout = html.Div(
     dcc.Markdown(
         
         '''
-        In the summer of 2020, I was planning to move from my current appartment and I started hunting online for appartment listings
+        In the summer of 2020, I was planning to move from my current apartment and I started hunting online for apartment listings
         around Ohio State University. While googling, I noticed that multiple websites were putting up the same listing for different prices and 
-        I found this to be annoying. Therefore, I decided to go ahead and create a  website that would help give an estimate of the price that I should be
-        expecting to pay for an appartment, based on my preferences. 
+        I found this to be a hassle. Therefore, I decided to go ahead and create a  website that would help give an estimate of the price that I should be
+        expecting to pay for an apartment, based on my preferences. 
 
         
         Click on the application tab to take a look!
