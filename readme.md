@@ -24,7 +24,7 @@ removing rows of data that didnt make sense, for example a house with 9 bedrooms
 The websites from which data were scrapped are given below:
 
 - [Offcampus.osu.edu](https://offcampus.osu.edu/search-housing.aspx)
-- [Appartments.com](https://www.apartments.com/off-campus-housing/oh/columbus/the-ohio-state-university/) 
+- [Apartments.com](https://www.apartments.com/off-campus-housing/oh/columbus/the-ohio-state-university/) 
 
 
 The scrapping python files were dockerized for running them conviniently and are currently scheduled to run bi-weekly on airflow. The data is being stored on a postgres sql 
