@@ -1,11 +1,8 @@
-# **Ohio State Appartment Rent Prediction Model**
+# **Ohio State Apartment Rent Prediction Model**
 
 ## Overview
-In the summer of 2020, I was planning to move from my current appartment and I started hunting online for appartment listings around Ohio State University. 
-While googling, I noticed that multiple websites were putting up the same listing for different prices and I found this to be annoying. This little annoyment of mine made me think
-as to how I wish, there existed a website where I could input my preferences and an accurate estimate of how much rent I should shell out would be predicted. Well! I decided to 
-do it myself and this project therefore is the result of a small but significant issue that I thought I could and did resolve. I do believe the project has plenty of room for 
-improvement and I shall address some of the issues below.
+In the summer of 2020, I was planning to move from my current apartment and I started hunting online for apartment listings around Ohio State University. 
+While googling, I noticed that multiple websites were putting up the same listing for different prices and I found this to be annoying. This little annoyment of mine made me think as to how I wish, there existed a website where I could input my preferences and an accurate estimate of how much rent I should shell out would be predicted. Well! I decided to  do it myself and this project therefore is the result of a small but significant issue that I thought I could and did resolve. I do believe the project has plenty of room for improvement and I shall address some of the issues below.
 
 **The website can be accesed [here](https://ohio-state-listing-prediction.herokuapp.com/)**
 
@@ -20,7 +17,7 @@ The repository has been divided into 3 major sections:
 <img width="1000" height="300" src= "https://github.com/Kuriankkr/Ohio-State-Listings-Rent-Prediction-Model/blob/master/Extras/ohio_state.gif">
 
 ## Dataset
-Since there was no preexisting clean datasets for appartments listings around Ohio State University, I had to scrape online from websites inorder to create my dataset.
+Since there was no preexisting clean datasets for apartments listings around Ohio State University, I had to scrape online from websites inorder to create my dataset.
 I realized the most time consuming part of a Machine Learning project is getting the data and cleaning it up . The clean up included dealing with Null values, 
 removing rows of data that didnt make sense, for example a house with 9 bedrooms and 1 bath would be an outlier and would affect the coefficients significantly.
 
